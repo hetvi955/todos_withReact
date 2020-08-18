@@ -1,0 +1,37 @@
+.App {
+  text-align: left;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:25px;
+  font-weight: 250;
+  color:whitesmoke;
+  line-height: 75px;
+  background-image: linear-gradient(black,rgb(1, 57, 71));
+  padding: 50px
+
+};
+.intro{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:20px;
+  font-weight:200;
+  color: rgb(144, 252, 210);
+
+}
+.btn{
+  background:rgb(3, 121, 85);
+  border:black 0.5px solid;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:12px;
+  float: right;
+  cursor: pointer;
+  color:white;
+  padding:8px;
+  margin:10px
+}
+.link{
+  text-decoration: none;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:30px;
+  font-weight:200;
+  color: rgb(144, 252, 210);
+
+}
