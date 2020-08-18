@@ -1,1 +1,1 @@
-basic Todos app using React
+basic Todos app using React.
